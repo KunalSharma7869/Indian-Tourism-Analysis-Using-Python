@@ -1,5 +1,5 @@
 # Indian-Tourism-Analysis-Using-Python
-# Indian Tourism Analysis
+
 
 Tourism plays a significant role in India's economy as one of the largest service industries. It is experiencing rapid growth and is vital for the country's economic well-being. According to the World Travel and Tourism Council, in 2018, tourism contributed ₹16.91 lakh crore (US$220 billion) or 9.2% of India's GDP, and it supported 42.673 million jobs, accounting for 8.1% of total employment. In 2019-20, tourism was estimated to directly contribute 2.7% to GDP and 6.7% to overall employment in the country.
 
@@ -26,7 +26,3 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-%matplotlib inline
-```
-
-** The Dataset, analysis report and notebook are uploaded above. Thank You!
